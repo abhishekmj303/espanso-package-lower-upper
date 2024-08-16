@@ -1,7 +1,7 @@
 ---
 package_name: "lower-upper"
 package_title: "Lower and UPPER case"
-package_desc: "A simple package to convert clipboard content to lower case, UPPER case or Capitalise. (UNIX only)"
+package_desc: "A simple package to convert clipboard content to lower case, UPPER case or Capitalize. (UNIX only)"
 package_version: "0.1.0"
 package_author: "Anthony Graignic"
 package_repo: "https://github.com/anthonygraignic/espanso-package-lower-upper"
